@@ -84,10 +84,7 @@ El ajuste compara una búsqueda pequeña. No selecciona parámetros con los resu
 
 `verificar.py` comprueba las 90 máscaras, sus tamaños, valores binarios, campo visual y métricas. También prueba el crecimiento con ejemplos pequeños conocidos.
 
-## Exposición
-
-La [guía del notebook](documentacion/GUIA_EXPOSICION.md) está organizada para una exposición de 10 a 12 minutos. El repositorio contiene los archivos técnicos; el video se entrega aparte.
 
 ## Contexto académico
 
-Desarrollado como proyecto del examen parcial de Visión por Computador, Grupo 01, MIA. Se conserva la versión 2 como solución documentada.
+Desarrollado como proyecto del examen parcial de Visión por Computador, UNI-FIIS. Se conserva la versión 2 como solución documentada.
