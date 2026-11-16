@@ -1,0 +1,1 @@
+Correcto: crecimiento por 8 vecinos y rechazo de regiones sin semillas; métricas conocidas; 90 máscaras binarias al tamaño original; exterior nulo; métricas recalculadas desde PNG; particiones y selección comprobadas.

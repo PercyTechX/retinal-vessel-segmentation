@@ -1,0 +1,15 @@
+candidato,metodo,corregir_iluminacion,dice_promedio,iou_promedio
+adaptativo_0_6,umbral_adaptativo,False,0.6696692598856298,0.5075646406516775
+adaptativo_0_8,umbral_adaptativo,False,0.711792232378377,0.5558988639852366
+adaptativo_0_10,umbral_adaptativo,False,0.7198443893066965,0.5652419009610758
+regiones_0_5_12,crecimiento_regiones,False,0.6673894136822498,0.5049760277475888
+regiones_0_5_16,crecimiento_regiones,False,0.6922071037117808,0.5331663431307484
+regiones_0_7_12,crecimiento_regiones,False,0.7064415766595301,0.5496165167778696
+regiones_0_7_16,crecimiento_regiones,False,0.7155123633660858,0.5604998064019424
+adaptativo_1_6,umbral_adaptativo,True,0.6628116182151108,0.4999692505073913
+adaptativo_1_8,umbral_adaptativo,True,0.7094941788803587,0.5530599152599821
+adaptativo_1_10,umbral_adaptativo,True,0.7198389079436456,0.5651542003401723
+regiones_1_5_12,crecimiento_regiones,True,0.6601763664550686,0.49707745044819196
+regiones_1_5_16,crecimiento_regiones,True,0.6878375853783172,0.5279515662885637
+regiones_1_7_12,crecimiento_regiones,True,0.7036504577677615,0.5462234578714169
+regiones_1_7_16,crecimiento_regiones,True,0.7123077615862368,0.5564327449590813

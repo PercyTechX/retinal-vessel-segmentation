@@ -1,0 +1,13 @@
+{
+  "ancho_procesamiento": 1800,
+  "contraste_clahe": 2.0,
+  "ventana_local": 47,
+  "sigma_iluminacion": 25.0,
+  "area_minima": 45,
+  "margen_campo": 3,
+  "casos_desarrollo": ["01_h", "02_h", "01_dr", "02_dr", "01_g", "02_g"],
+  "correcciones_a_comparar": [false, true],
+  "constantes_a_comparar": [6, 8, 10],
+  "umbrales_bajos_a_comparar": [5, 7],
+  "umbrales_altos_a_comparar": [12, 16]
+}

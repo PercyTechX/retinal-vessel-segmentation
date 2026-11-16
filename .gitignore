@@ -1,0 +1,19 @@
+# Entorno y archivos temporales.
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Datos originales y archivos grandes de entrega.
+datos/
+datos_compartidos/
+*.zip
+*.mp4
+*.mkv
+*.webm
+
+# Configuración local.
+.env
+.env.*
